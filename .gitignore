@@ -1,0 +1,5 @@
+.stack-work/
+qrandom.cabal
+*~
+.idea/
+qrandom.iml
